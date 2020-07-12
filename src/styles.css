@@ -1,0 +1,56 @@
+
+.btn-danger {
+  background-color: black;
+  border: 0.1px solid grey;
+  height: 100px;
+  width: 100px;
+  border-radius: 7px;
+  color: white;
+  font-size: 40px;
+}
+.row {
+  margin-bottom: 50px;
+  margin-top: 20px;
+  width: 300px;
+  margin-left: 270px;
+  margin-right: 0px;
+}
+.winner {
+  color: greenyellow;
+  margin-left: 290px;
+  font-family: cursive;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+
+}
+body {
+  background-image: url("https://images.wallpaperscraft.com/image/tic_tac_toe_hearts_cells_112371_1920x1080.jpg");
+  background-origin: center;
+}
+.header{
+  color : yellow;
+  text-shadow: 2px 2px violet;
+  margin:150px 50px 50px 150px; 
+}
+.board{
+  margin-top:100px;
+}
+.col{
+  padding:0px;
+}
+.btn-primary{
+  margin-left:270px;
+  border:none;
+  background-color: darkorange;
+  font-size: 20px;
+  border-radius: 10px;
+}
+.track{
+  color: white;
+}
+.btn:focus,.btn:active {
+  outline: none !important;
+  box-shadow: none;
+}
+.btn-primary, .btn-primary:active, .btn-primary:visited {
+  background-color: darkorange !important;
+}
